@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Furkan Abalı</h1>
 <h3 align="center">Computer Engineering | Full Stack Developer</h3>
-
+<p align="left">
+<h3>About Me:</h3>
+<p>Hello, I am Furkan Abalı. Since my childhood, my interest in computers has continued to increase exponentially with the advancement of technology. As a fourth-year student at Giresun University Computer Engineering Department, I specialized in frontend development. I have built a solid foundation in HTML, CSS and JavaScript languages. I have knowledge in developing dynamic and interactive user interfaces with popular frameworks such as React or Angular. I am actively looking for internship and job opportunities where I can further expand my expertise, improve my skills and share my passion in the industry.Hello, I am Furkan Abalı. Since my childhood, my interest in computers has continued to increase exponentially with the advancement of technology. As a fourth-year student at Giresun University Computer Engineering Department, I specialized in frontend development. I have built a solid foundation in HTML, CSS and JavaScript languages. I have knowledge in developing dynamic and interactive user interfaces with popular frameworks such as React or Angular. I am actively looking for internship and job opportunities where I can further expand my expertise, improve my skills and share my passion in the industry.
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 Mail: abali9759@gmail.com</h3>
 <p align="left">
 <a href="https://linkedin.com/in/furkan-abali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkan-abali" height="30" width="40" /></a>
 <a href="https://instagram.com/furkan_abalii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="furkan_abalii" height="30" width="40" /></a>
